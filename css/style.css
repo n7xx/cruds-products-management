@@ -100,12 +100,10 @@ td {
     }
     .contain {
         width: calc( 100% + 270px);
-        margin-left: 10%;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
     .total {
         margin: auto;
-        padding: 6px;
     }
 
     table {
